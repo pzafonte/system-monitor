@@ -2,19 +2,14 @@
 
 A very simple React web application that monitors CPU and memory usage on the system in real-time.
 
-## Sample Image 
-![SampleImage](/public/img/screenshot.png)
+## Screenshot
+![Screenshot](/public/img/screenshot.png)
 
-## Usage
-### Clone directory and install node modules:
+## Run the app
 ```
 git clone https://github.com/pzafonte/system-monitor.git
 cd react-load-monitor
 npm install
-``` 
-
-### Running the app:
-```
 npm run start
 ``` 
 Then open http://localhost:3000/.
