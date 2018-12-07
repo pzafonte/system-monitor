@@ -8,7 +8,7 @@ A very simple React web application that monitors CPU and memory usage on the sy
 ## Run the app
 ```
 git clone https://github.com/pzafonte/system-monitor.git
-cd react-load-monitor
+cd system-monitor
 npm install
 npm run start
 ``` 
