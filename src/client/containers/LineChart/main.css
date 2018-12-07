@@ -1,0 +1,49 @@
+.Chart {
+  flex: 1;
+}
+
+.line {
+  fill: none;
+  stroke: #FF1654;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-width: 1.5;
+  shape-rendering: geometricPrecision;
+}
+
+.axis {
+  stroke: #247BA0;
+}
+
+.xAxis {
+  stroke: #247BA0;
+}
+
+.yAxis {
+  stroke: #247BA0;
+}
+
+.grid line {
+  stroke: #247BA0;
+  stroke-opacity: 0.7;
+  shape-rendering: crispEdges;
+}
+
+.grid path {
+  stroke-width: 0;
+}
+
+.axis path {
+  stroke-width: 1;
+  shape-rendering: crispEdges;
+}
+
+/* .dot {
+    fill: #006e00;
+    stroke: #fff;
+} */
+
+.HeaderText {
+  font-family: monospace;
+  color: #247BA0;
+}

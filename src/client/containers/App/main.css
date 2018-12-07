@@ -1,0 +1,50 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+.Header {
+  background-color: #F3FFBD;
+  padding-bottom: 10px;
+}
+
+.App {
+  text-align: center;
+  background-color: #F3FFBD;
+}
+
+.HeaderText {
+  font-family: monospace;
+  color: #247BA0;
+  margin-bottom: 5px;
+}
+
+.Details {
+  font-family: monospace;
+  color: #247BA0;
+}
+
+.ChartsContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.LeftLineChart {
+   display: table-cell;
+   min-width: 160px;
+   flex: 1;
+}
+
+.RightLineChart {
+  display: table-cell;
+  width: 100%;
+  flex: 1;
+}
+
+.ScrollContainer {
+  text-align: center;
+}

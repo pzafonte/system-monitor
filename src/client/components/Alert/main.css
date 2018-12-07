@@ -1,0 +1,24 @@
+.Alert {
+  position: relative;
+  border-top: 1px solid #ddd;
+  font-family: monospace;
+  color: #FF1654;
+}
+
+.MessageContainer {
+  display: flex; 
+  flex-direction: row;
+}
+
+.AlertText {
+  font-size: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.DetailsText {
+  font-size: 17px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  left: 10px;
+}
